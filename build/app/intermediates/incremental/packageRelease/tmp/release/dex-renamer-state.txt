@@ -1,0 +1,4 @@
+#Fri Jun 14 11:59:25 PKT 2019
+base.0=/Users/square/development/Dev/bmi-calculator-flutter/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
